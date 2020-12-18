@@ -16,7 +16,7 @@ namespace EmployeeCompetencyTrackingSystem.Tests
             EmployeeCompetencyController _EmployeeCompetencyController = new EmployeeCompetencyController();
             ViewResult result = (ViewResult) _EmployeeCompetencyController.Index();
             int count = ((List<EmployeeCompetence>)result.Model).Count;
-            Assert.AreEqual(8, count);
+            Assert.AreEqual(89, count);
         }
         [TestMethod]
         public void TestDetailsByEid()
