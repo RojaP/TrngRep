@@ -1,4 +1,3 @@
-E:\Demo\EmployeeCompetencyTrackingSystem\bin\EmployeeCompetencyTrackingSystem.dll.config
 E:\Demo\EmployeeCompetencyTrackingSystem\bin\EmployeeCompetencyTrackingSystem.dll
 E:\Demo\EmployeeCompetencyTrackingSystem\bin\EmployeeCompetencyTrackingSystem.pdb
 E:\Demo\EmployeeCompetencyTrackingSystem\bin\Antlr3.Runtime.dll
@@ -25,6 +24,8 @@ E:\Demo\EmployeeCompetencyTrackingSystem\bin\System.Web.Razor.xml
 E:\Demo\EmployeeCompetencyTrackingSystem\bin\System.Web.WebPages.xml
 E:\Demo\EmployeeCompetencyTrackingSystem\bin\System.Web.WebPages.Deployment.xml
 E:\Demo\EmployeeCompetencyTrackingSystem\bin\System.Web.WebPages.Razor.xml
+E:\Demo\EmployeeCompetencyTrackingSystem\obj\Debug\EmployeeCompetencyTrackingSystem.csprojAssemblyReference.cache
+E:\Demo\EmployeeCompetencyTrackingSystem\obj\Debug\EmployeeCompetencyTrackingSystem.csproj.CoreCompileInputs.cache
+E:\Demo\EmployeeCompetencyTrackingSystem\obj\Debug\EmployeeCompetencyTrackingSystem.csproj.CopyComplete
 E:\Demo\EmployeeCompetencyTrackingSystem\obj\Debug\EmployeeCompetencyTrackingSystem.dll
 E:\Demo\EmployeeCompetencyTrackingSystem\obj\Debug\EmployeeCompetencyTrackingSystem.pdb
-E:\Demo\EmployeeCompetencyTrackingSystem\obj\Debug\EmployeeCompetencyTrackingSystem.csprojResolveAssemblyReference.cache
