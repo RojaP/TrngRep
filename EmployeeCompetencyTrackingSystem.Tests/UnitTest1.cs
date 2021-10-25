@@ -24,7 +24,7 @@ namespace EmployeeCompetencyTrackingSystem.Tests
             EmployeeCompetencyController _EmployeeCompetencyController = new EmployeeCompetencyController();
             ViewResult result = (ViewResult)_EmployeeCompetencyController.DetailsByEid(1000);
             int count = ((List<EmployeeCompetence>)result.Model).Count;
-            Assert.AreEqual(1, count);
+            Assert.AreEqual(2, count);
         }
         [TestMethod]
         public void TestDetailsByCid()

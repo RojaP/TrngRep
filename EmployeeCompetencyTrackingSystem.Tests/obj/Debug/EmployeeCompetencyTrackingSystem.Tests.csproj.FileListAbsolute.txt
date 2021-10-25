@@ -26,6 +26,10 @@ E:\Demo\EmployeeCompetencyTrackingSystem.Tests\bin\Debug\System.Web.Razor.xml
 E:\Demo\EmployeeCompetencyTrackingSystem.Tests\bin\Debug\System.Web.WebPages.xml
 E:\Demo\EmployeeCompetencyTrackingSystem.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\Demo\EmployeeCompetencyTrackingSystem.Tests\bin\Debug\System.Web.WebPages.Razor.xml
-E:\Demo\EmployeeCompetencyTrackingSystem.Tests\obj\Debug\EmployeeCompetencyTrackingSystem.Tests.csprojResolveAssemblyReference.cache
 E:\Demo\EmployeeCompetencyTrackingSystem.Tests\obj\Debug\EmployeeCompetencyTrackingSystem.Tests.dll
 E:\Demo\EmployeeCompetencyTrackingSystem.Tests\obj\Debug\EmployeeCompetencyTrackingSystem.Tests.pdb
+E:\Demo\EmployeeCompetencyTrackingSystem.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Demo\EmployeeCompetencyTrackingSystem.Tests\bin\Debug\EmployeeCompetencyTrackingSystem.dll.config
+E:\Demo\EmployeeCompetencyTrackingSystem.Tests\obj\Debug\EmployeeCompetencyTrackingSystem.Tests.csprojAssemblyReference.cache
+E:\Demo\EmployeeCompetencyTrackingSystem.Tests\obj\Debug\EmployeeCompetencyTrackingSystem.Tests.csproj.CoreCompileInputs.cache
+E:\Demo\EmployeeCompetencyTrackingSystem.Tests\obj\Debug\EmployeeCompetencyTrackingSystem.Tests.csproj.CopyComplete
