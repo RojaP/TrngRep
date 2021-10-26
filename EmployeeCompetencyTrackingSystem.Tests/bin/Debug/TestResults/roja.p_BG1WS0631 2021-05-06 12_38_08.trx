@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c648350d-01fb-4bf0-a55b-e2b3969aab8f" name="roja.p@BG1WS0631 2021-05-06 12:38:08" runUser="SONATA\roja.p" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="18f7a0fc-58ce-4464-80c9-2103e32cd5f9">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="roja.p_BG1WS0631 2021-05-06 12_38_08" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2021-05-06T12:38:08.2111982+05:30" queuing="2021-05-06T12:38:09.2586431+05:30" start="2021-05-06T12:38:09.3176057+05:30" finish="2021-05-06T12:38:09.9735994+05:30" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="BG1WS0631" outcome="Warning" timestamp="2021-05-06T12:38:08.8630247+05:30">
+        <Text>Warning: Test Run deployment issue: The assembly or module 'WebGrease' directly or indirectly referenced by the test container 'E:\Demo\EmployeeCompetencyTrackingSystem.Tests\bin\Debug\employeecompetencytrackingsystem.tests.dll' was not found.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestDetailsByEid" storage="employeecompetencytrackingsystem.tests.dll" id="8561aa37-2dee-afea-871e-36ba181e7259">
+      <Execution id="9093e3a9-f496-4ad9-84f4-2a363e88945e" />
+      <TestMethod codeBase="E:/Demo/EmployeeCompetencyTrackingSystem.Tests/bin/Debug/EmployeeCompetencyTrackingSystem.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="EmployeeCompetencyTrackingSystem.Tests.UnitTestEmployeeCompetencyController, EmployeeCompetencyTrackingSystem.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDetailsByEid" />
+    </UnitTest>
+    <UnitTest name="TestDetailsByCid" storage="employeecompetencytrackingsystem.tests.dll" id="9d66fd64-b022-73f3-d4b9-f3d3e5f1a455">
+      <Execution id="28cce93e-99e6-4573-a07a-45c284cce6a6" />
+      <TestMethod codeBase="E:/Demo/EmployeeCompetencyTrackingSystem.Tests/bin/Debug/EmployeeCompetencyTrackingSystem.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="EmployeeCompetencyTrackingSystem.Tests.UnitTestEmployeeCompetencyController, EmployeeCompetencyTrackingSystem.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDetailsByCid" />
+    </UnitTest>
+    <UnitTest name="TestIndex" storage="employeecompetencytrackingsystem.tests.dll" id="fff4a892-763b-680a-a78f-9f7d89167823">
+      <Execution id="8ab03b66-3526-4df9-b424-45af27e1f550" />
+      <TestMethod codeBase="E:/Demo/EmployeeCompetencyTrackingSystem.Tests/bin/Debug/EmployeeCompetencyTrackingSystem.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="EmployeeCompetencyTrackingSystem.Tests.UnitTestEmployeeCompetencyController, EmployeeCompetencyTrackingSystem.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIndex" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="9d66fd64-b022-73f3-d4b9-f3d3e5f1a455" executionId="28cce93e-99e6-4573-a07a-45c284cce6a6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8561aa37-2dee-afea-871e-36ba181e7259" executionId="9093e3a9-f496-4ad9-84f4-2a363e88945e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fff4a892-763b-680a-a78f-9f7d89167823" executionId="8ab03b66-3526-4df9-b424-45af27e1f550" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="28cce93e-99e6-4573-a07a-45c284cce6a6" testId="9d66fd64-b022-73f3-d4b9-f3d3e5f1a455" testName="TestDetailsByCid" computerName="BG1WS0631" duration="00:00:00.0271389" startTime="2021-05-06T12:38:09.4956049+05:30" endTime="2021-05-06T12:38:09.9185995+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="28cce93e-99e6-4573-a07a-45c284cce6a6">
+    </UnitTestResult>
+    <UnitTestResult executionId="9093e3a9-f496-4ad9-84f4-2a363e88945e" testId="8561aa37-2dee-afea-871e-36ba181e7259" testName="TestDetailsByEid" computerName="BG1WS0631" duration="00:00:00.0003846" startTime="2021-05-06T12:38:09.9196001+05:30" endTime="2021-05-06T12:38:09.9216337+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9093e3a9-f496-4ad9-84f4-2a363e88945e">
+    </UnitTestResult>
+    <UnitTestResult executionId="8ab03b66-3526-4df9-b424-45af27e1f550" testId="fff4a892-763b-680a-a78f-9f7d89167823" testName="TestIndex" computerName="BG1WS0631" duration="00:00:00.0233567" startTime="2021-05-06T12:38:09.9216337+05:30" endTime="2021-05-06T12:38:09.9466351+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8ab03b66-3526-4df9-b424-45af27e1f550">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;6&gt;. Actual:&lt;8&gt;. </Message>
+          <StackTrace>   at EmployeeCompetencyTrackingSystem.Tests.UnitTestEmployeeCompetencyController.TestIndex() in E:\Demo\EmployeeCompetencyTrackingSystem.Tests\UnitTest1.cs:line 19
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

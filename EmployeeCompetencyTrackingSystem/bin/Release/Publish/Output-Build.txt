@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: EmployeeCompetencyTrackingSystem, Configuration: Debug Any CPU ------
+1>  EmployeeCompetencyTrackingSystem -> E:\Demo\EmployeeCompetencyTrackingSystem\bin\EmployeeCompetencyTrackingSystem.dll
+2>------ Build started: Project: EmployeeCompetencyTrackingSystem.Tests, Configuration: Debug Any CPU ------
+2>  EmployeeCompetencyTrackingSystem.Tests -> E:\Demo\EmployeeCompetencyTrackingSystem.Tests\bin\Debug\EmployeeCompetencyTrackingSystem.Tests.dll
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
