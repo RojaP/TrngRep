@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/EmployeeCompetencyTrackingSystem/v15/Server/sqlite3
+/.vs/WebApplication3/v16/Server/sqlite3
+/EmployeeCompetency.Tests/obj/Debug/build.force
+/.vs/WebApplication3/config
